@@ -9,7 +9,7 @@ Fiverr Gig Images
 <h2>1</h2>
 
 <p align="center">
-Resume: <br/>
+FIverr: <br/>
 <img src="https://i.imgur.com/BbgPMzk.jpeg" height="80%" width="80%" alt=""/>
 <br />
 
